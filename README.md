@@ -42,5 +42,8 @@ The Power BI dashboard includes the following visualizations:
 - `Supermarket_Sales.xlsx` → Dataset
 - `dashboard.png` → Dashboard screenshot
 
+## LinkedIn:
+https://www.linkedin.com/in/lavanya-gowda23/
+
 ## Author
 Lavanya B Y
