@@ -46,4 +46,4 @@ The Power BI dashboard includes the following visualizations:
 https://www.linkedin.com/in/lavanya-gowda23/
 
 ## Author
-Lavanya B Y
+LAVANYA B Y
