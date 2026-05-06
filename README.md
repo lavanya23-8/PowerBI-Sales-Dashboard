@@ -1,4 +1,4 @@
-# Supermarket Sales Dashboard (Power BI Project)
+## Supermarket Sales Dashboard (Power BI Project)
 
 ## Project Overview
 This project presents an interactive sales dashboard built using Power BI.  
