@@ -28,7 +28,7 @@ The Power BI dashboard includes the following visualizations:
 4. Sales by Payment Method (Column Chart)
 5. Sales Trend Over Time (Line Chart)
 6. Interactive Filters (Slicers)
-
+   
 ## Key Insights
 - Identified the city with the highest sales performance
 - Analyzed which product line generates the most revenue
