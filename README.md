@@ -21,7 +21,7 @@ The dataset contains information about supermarket sales transactions including:
 - Customer Gender
 
 ## Dashboard Features
-The Power BI dashboard includes the following visualizations:
+The Power BI dashboard includes the following visualizations:.
 1. Total Sales (Card Visualization)
 2. Sales by City (Bar Chart)
 3. Sales by Product Line (Pie Chart)
