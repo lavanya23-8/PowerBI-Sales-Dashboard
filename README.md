@@ -38,7 +38,7 @@ The Power BI dashboard includes the following visualizations:.
 ## Project Files
 - `Supermarket_Sales_Dashboard.pbix` → Power BI dashboard file
 - `Supermarket_Sales.xlsx` → Dataset
-- `dashboard.png` → Dashboard screenshot
+- `dashboard.png` → Dashboard screenshot.
 
 ## LinkedIn:
 https://www.linkedin.com/in/lavanya-gowda23/
