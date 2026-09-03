@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project presents an interactive sales dashboard built using Power BI.  
-The dashboard analyzes supermarket sales data to identify trends, product performance, and customer purchasing behavior
+The dashboard analyzes supermarket sales data to identify trends, product performance, and customer purchasing behavior.
 
 ## Tools Used
 - Power BI
