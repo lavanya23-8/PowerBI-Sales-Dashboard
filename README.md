@@ -6,7 +6,7 @@ The dashboard analyzes supermarket sales data to identify trends, product perfor
 
 ## Tools Used
 - Power BI
-- Microsoft Excel
+- Microsoft Excel 
 
 ## Dataset
 The dataset contains information about supermarket sales transactions including:
